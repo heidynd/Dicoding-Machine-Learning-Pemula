@@ -1,1 +1,1 @@
-# Dicoding-Machine-Learning-Pemula
+# Dicoding Machine Learning for Beginner
